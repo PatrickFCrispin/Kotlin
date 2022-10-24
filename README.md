@@ -7,7 +7,7 @@ Este projeto contém um aplicativo Palindrome escrito em linguagem Kotlin e um m
 ## Installation
 - Baixar e instalar o Android Studio (caso não tenha);
 - Baixar o repositório;
-- Extrair o projeto Palindrome e abri-lo no Android Studio;
+- Extrair o projeto Palindrome e abri-lo no Android Studio.
 
 ## Usage
 - Compilar o projeto no Android Studio;
