@@ -13,5 +13,3 @@ Este projeto contém um aplicativo Palindrome escrito em linguagem Kotlin e um m
 - Compilar o projeto no Android Studio;
 - Abrir o Emulador ou conectar um device físico e parea-lo com o Android Studio;
 - Rodar o projeto.
-
-https://www.makeareadme.com/
