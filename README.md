@@ -2,7 +2,7 @@
 Palindrome desenvolvido em linguagem Kotin.
 
 ## Description
-Este projeto contém um aplicativo Palindrome desenvolvido em linguagem Kotlin após estudo sobre linguagem e curso de desenvolvimento Android com Kotlin - https://www.youtube.com/watch?v=5BSSq921XNo&list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg&index=2.
+Este projeto contém um aplicativo Palindrome desenvolvido em linguagem Kotlin após estudo sobre técnologia e linguagem durante curso de desenvolvimento Android com Kotlin - https://www.youtube.com/watch?v=5BSSq921XNo&list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg&index=2.
 
 ## Installation
 - Baixar e instalar o Android Studio (caso não tenha).
